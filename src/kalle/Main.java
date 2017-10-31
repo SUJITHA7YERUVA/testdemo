@@ -6,6 +6,7 @@ public class Main {
 		String message = "welcome git";
 		String  n = "hello";
 		String h ="bye";
+		String m ="rr";
 
 	}
 
